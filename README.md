@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfian
-- 👀 I’m interested in computer graphics and machine learning
-- 🌱 I’m currently learning how to become machine learning engineer
+- 👀 I’m interested in computer graphics, machine learning, data science, and web development
+- 🌱 I’m currently learning how to become Software Engineer
 
 <!---
 alfiannajih/alfiannajih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
